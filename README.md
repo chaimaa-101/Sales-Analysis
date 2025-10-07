@@ -49,25 +49,25 @@ It is commonly used for data analysis, SQL practice, and BI demonstrations.
 
 These tables were transformed into:
 
-* Dimension Tables (Dim_*) : descriptive data (Product, Date, Territory, etc.)
+* **Dimension Tables (Dim_*) :** descriptive data (Product, Date, Territory, etc.)
 
-* Fact Tables (Fact_*) : transactional data (Sales, Product performance)
+* **Fact Tables (Fact_*) :** transactional data (Sales, Product performance)
 
 ## 🤖 Machine Learning Components
 
-1. Revenue Forecasting
+1. **Revenue Forecasting**
 
 * Algorithm: Prophet
 * Goal: Predict future annual and regional revenues
 * Output: Interactive trend charts and 5-year revenue projections
 
-2. Product Classification
+2. **Product Classification**
 
 * Algorithm: Random Forest Classifier
 * Goal: Predict product categories based on attributes (price, region, etc.)
 * Evaluation Metrics: Accuracy score, confusion matrix
 
-3. Sales Quantity Prediction
+3. **Sales Quantity Prediction**
 
 * Algorithm: Random Forest Regressor
 * Goal: Estimate quantities sold using pricing and geographic features
